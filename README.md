@@ -24,3 +24,4 @@ Simulate on Wokwi: [Open Project](https://wokwi.com/projects/your-project-id)
 
 ## 💻 Code
 See `project.ino` file in the repository.
+https://wokwi.com/projects/new/arduino-uno

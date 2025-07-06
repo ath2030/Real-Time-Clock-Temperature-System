@@ -11,7 +11,7 @@ This Arduino-based project displays the current time and temperature using an RT
 - RTC DS1307
 - 16x2 LCD with I2C
 - 4.7kΩ Resistor
-
+##video demo link - https://drive.google.com/file/d/133wOi3jFU_8LC1UaEm6IF2Pou6IfpB5e/view?usp=sharing
 ## 🔌 Circuit & Simulation
 Simulate on Wokwi: [Open Project](https://wokwi.com/projects/your-project-id)
 ![image](https://github.com/user-attachments/assets/a5fa1774-6fd6-4c3e-94a8-163b98ef718e)
@@ -27,7 +27,7 @@ images of the code and all
 - Alerts for:
   - High temperature > 30°C
   - Low temperature < 15°C
-video demo link - https://drive.google.com/file/d/133wOi3jFU_8LC1UaEm6IF2Pou6IfpB5e/view?usp=sharing
+
 ## 💻 Code
 See `project.ino` file in the repository.
 https://wokwi.com/projects/new/arduino-uno
